@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[TITLE IS MATCHINGOnline Jewellery Shopping Store India | Buy Gold and Diamond jewellery with Latest Designs 2018 | BlueStone.com]]>
+    </line>
+    <line>
+      <![CDATA[TITLE IS MATCHINGOnline Jewellery Shopping Store India | Buy Gold and Diamond jewellery with Latest Designs 2018 | BlueStone.com]]>
+    </line>
+    <line>
+      <![CDATA[TITLE IS MATCHINGThe Charulata Shringaar Drop Earrings | BlueStone.com]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="116355" started-at="2018-06-20T06:35:56Z" finished-at="2018-06-20T06:37:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="116355" started-at="2018-06-20T06:35:56Z" finished-at="2018-06-20T06:37:52Z">
+      <class name="system_scripts.Script_2">
+        <test-method status="PASS" signature="openAplln()[pri:0, instance:system_scripts.Script_2@396a51ab]" name="openAplln" is-config="true" duration-ms="17944" started-at="2018-06-20T12:06:32Z" finished-at="2018-06-20T12:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAplln -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:system_scripts.Script_2@396a51ab]" name="test2" duration-ms="62549" started-at="2018-06-20T12:06:50Z" finished-at="2018-06-20T12:07:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TITLE IS MATCHINGOnline Jewellery Shopping Store India | Buy Gold and Diamond jewellery with Latest Designs 2018 | BlueStone.com]]>
+            </line>
+            <line>
+              <![CDATA[TITLE IS MATCHINGThe Charulata Shringaar Drop Earrings | BlueStone.com]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="closeAppln()[pri:0, instance:system_scripts.Script_2@396a51ab]" name="closeAppln" is-config="true" duration-ms="93" started-at="2018-06-20T12:07:52Z" finished-at="2018-06-20T12:07:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAppln -->
+      </class> <!-- system_scripts.Script_2 -->
+      <class name="system_scripts.Script_1">
+        <test-method status="PASS" signature="openAplln()[pri:0, instance:system_scripts.Script_1@5034c75a]" name="openAplln" is-config="true" duration-ms="6536" started-at="2018-06-20T12:05:56Z" finished-at="2018-06-20T12:06:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAplln -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:system_scripts.Script_1@5034c75a]" name="test1" duration-ms="29103" started-at="2018-06-20T12:06:03Z" finished-at="2018-06-20T12:06:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TITLE IS MATCHINGOnline Jewellery Shopping Store India | Buy Gold and Diamond jewellery with Latest Designs 2018 | BlueStone.com]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="closeAppln()[pri:0, instance:system_scripts.Script_1@5034c75a]" name="closeAppln" is-config="true" duration-ms="102" started-at="2018-06-20T12:06:32Z" finished-at="2018-06-20T12:06:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAppln -->
+      </class> <!-- system_scripts.Script_1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
